@@ -13,7 +13,7 @@ SECRET_KEY = 'django-insecure-!yonxx)qol3=3ef0l4lkpmsz(edd9s141ig)+-*=4)bj%9#pl_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://beacon-innovation.com','beacon-innovation.com','https://django-resume-production-6ada.up.railway.app', 'django-resume-production-6ada.up.railway.app', 'localhost']
+ALLOWED_HOSTS = ['https://dannyrjenkins.com','dannyrjenkins.com','https://beacon-innovation.com','beacon-innovation.com','https://django-resume-production-6ada.up.railway.app', 'django-resume-production-6ada.up.railway.app', 'localhost']
 
 
 # Application definition
